@@ -12,9 +12,11 @@ Hyperparamers: Not tuned. stopped training at 71st epoch.
 ```
 
 Intermediate generations during training:
+
 ![](./assets/pedestrian_synthesis_training_71ep.gif)
 
 Test sample results:
+
 ![](./assets/pedestrian_synthesis_test_159isto10.gif)
 
 > **What is causing noisy BG other than person?**
