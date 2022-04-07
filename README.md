@@ -19,6 +19,6 @@ Test sample results:
 
 ![](./assets/pedestrian_synthesis_test_159isto10.gif)
 
-> **What is causing noisy BG other than person?**
+> **What is causing noisy BG but not so noisy person?**
 > - May be side effect of small dataset
 > - May be because semantic map is very sparse
