@@ -31,6 +31,7 @@ Number of images: 750:60
 Original Resoultion: 2448x2448
 Trained Resolution: 1024x1024
 Epochs: 100+100
+Hyperparamers: Not-tuned!
 Device: A5000
 Time Taken: 16Hrs
 ```
@@ -38,3 +39,4 @@ Time Taken: 16Hrs
 Test set results
 
 ![](assets/deepglobe_test_100ep.gif)
+
