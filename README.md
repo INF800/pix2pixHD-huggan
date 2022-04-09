@@ -22,3 +22,19 @@ Test sample results:
 > **What is causing noisy BG but not so noisy person?**
 > - Maybe side effect of small dataset
 > - Maybe because semantic map is very sparse
+
+
+### Deepglobe dataset
+
+```
+Number of images: 750:60
+Original Resoultion: 2448x2448
+Trained Resolution: 1024x1024
+Epochs: 100+100
+Device: A5000
+Time Taken: 16Hrs
+```
+
+Test set results
+
+![](assets/deepglobe_test_100ep.gif)
